@@ -11,19 +11,11 @@ createServer({
       return [
         {
           id: 1,
-<<<<<<< HEAD
         title: 'Transaction 1',
         amount: 400,
         type: 'deposit',
         category: 'Food',
         createdAt: new Date()
-=======
-          title: 'Transaction 1',
-          amount: 400,
-          type: 'deposit',
-          category: 'Food',
-          createdAt: new Date()
->>>>>>> c6044dd (MirageJS config)
         }
       ]
     })
