@@ -26,14 +26,6 @@ createServer({
           category: 'Casa',
           amount: 1100,
           createdAt: new Date('2021-02-15 11:00:00')
-        },
-        {
-          id: 3,
-          title: 'Internet',
-          type: 'withdraw',
-          category: 'Casa',
-          amount: 120,
-          createdAt: new Date('2021-02-20 10:00:00')
         }
       ]
     })
