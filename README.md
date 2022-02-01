@@ -1,0 +1,15 @@
+# 💵 dtmoney
+
+This project was created during the second chapter of Rocketseat's Ignite Program.
+
+A web application designed to manage finances income and outcome.
+
+Created to study React concepts such as hooks, MirageJS use, CSS-in-JS and more.
+
+### Getting started:
+
+After cloning this repo, install de dependencies using the command `yarn`.
+
+To start the project, use the command `yarn start`.
+
+It should run on http://localhost:3000
